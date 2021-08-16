@@ -1,4 +1,4 @@
-# Introduction
+# 3 reasons for GIT
 
 > Brief Synopsis with [article link](https://codeworksacademy.com/fs-student-guide/)
 
