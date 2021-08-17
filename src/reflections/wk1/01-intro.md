@@ -1,54 +1,13 @@
-# 3 reasons for GIT
+# I finally GIT it!
 
-> Brief Synopsis with [article link](https://codeworksacademy.com/fs-student-guide/)
+## In your own words, why do we use Git?
 
-State and answer questions in paragraph format
+We use git as a way to store changes to our codebase locally. GIT allows us to come back later to see/reload changes to our code, almost like a magic time machine. It definitely saves programmers brutal headaches.
 
+## What are the benefits of having multiple branches?
 
----
+Branches allow us to separate out our code. this allows us to test individual features without impacting the overall structure of or total code.
 
-***Markdown Guide***
+## What is the difference between Git and GitHub
 
-# Every file starts with a heading
-
-## Subheadings are searchable
-
-some plain text and a link: [CodeWorks Academy](https://codeworksacademy.com)
-
-a line break uses three hyphens
-
----
-
-
-below is an img 
-
-![codeworks-logo](https://codeworks.blob.core.windows.net/public/assets/img/fs-logo.png)
-
-
-*itallics*, **bold**, ***bold-itallics*** 
-
-Here is a table
-
-|  id  |  name  |  phone         |
-|------|--------|----------------|
-|  10  |  Jim   |  111-222-3333  |
-|  10  |  Bob   |  222-333-4444  |
-|  10  |  Joe   |  333-444-5555  |
-
-
-code blocks
-
-```javascript{3,7}
-function democode(){
-    // NOTE this is a comment
-    let message = 'this line is highlighted'
-    return message + '!'
-}
-
-const executed = democode() // also highlighted
-```
-
-
-<section>
-    <kbd style="color:purple">HTML</kbd> is supported as well
-</section>
+GitHub basically takes the local code data stored through Git and publishes it to the cloud. Publishing to the cloud keeps the code "safe" and allows for greater collaboration.
