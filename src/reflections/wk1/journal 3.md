@@ -1,4 +1,4 @@
-# Whats up with CSS?!
+# Design, so hot right now!!!
 
 
 ## What is your favorite tip that you think is the most beneficial to improving your design?
