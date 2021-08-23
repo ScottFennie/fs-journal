@@ -13,21 +13,3 @@ Hoisting is essentially moving the variable to the top of the scope within a lin
 you would use a const variable in a case where you do not want the variable to be changed in another block. Let variables are more lose and can basically be changed anywhere.
 
 
-______██████████████
--____██▓▓▓▓▓▓▓▓▓ M ▓████
--__██▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓██
--__██████░░░░██░░██████
-██░░░░████░░██░░░░░░░░██
-██░░░░████░░░░██░░░░░░██
--__████░░░░░░██████████
--__██░░░░░░░░░░░░░██
-_____██░░░░░░░░░██
--______██░░░░░░██
--____██▓▓████▓▓▓█
--_██▓▓▓▓▓▓████▓▓█
-██▓▓▓▓▓▓███░░███░
--__██░░░░░░███████
--____██░░░░███████
--______██████████
--_____██▓▓▓▓▓▓▓▓▓██
--_____█████████████
