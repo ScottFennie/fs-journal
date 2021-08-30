@@ -11,3 +11,5 @@ Usually i will google the problem and investigate how other (better) programmers
 ## From the entire article what are your biggest takeaways?
 
 As a new developer, I am prone to making incredible errors. By simply creating a game plan and a code outline before I dive into a project, I can make my life (and the lives of my co-coders) much easier. I also need to have a mindset of a constant learner. It is almost impossible to be an expert in every area of coding.
+
+Link: https://jacksonschacher.github.io/SlapGame/

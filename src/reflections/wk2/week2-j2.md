@@ -24,3 +24,4 @@ Parameters are used when describing the function, arguments are essentially what
 
 When a function accepts another function as a parameter, or returns a function. Array filters are an example of this.
 
+Link: https://scottfennie.github.io/JS-Day2/

@@ -11,3 +11,6 @@ The elements tab. You can navigate to each html element and view it in detail us
 ## Outside of writing everything to the console, what is a better way to debug your code?
 
 You can use the debugger tool to more efficiently navigate through each line of code and view its outcome. This is the preferred method in most cases.
+
+
+Link: https://scottfennie.github.io/rock-paper-scissors/
