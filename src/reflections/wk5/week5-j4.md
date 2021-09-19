@@ -1,15 +1,15 @@
-## Its Query Time!
+## Mongo Properties
 
-# What is the purpose of a Query String?
+# What is a virtual property?
 
-A query allows you to pass certain info directly to a website simply by appending or changing the end of a URl.
+Virtuals allow you to essentially create auto-completion models within mongoose that can be easily called upon to update information.
 
-# What is the format of a query parameter? How does it start? How do you distinguish between one parameter and the next?
+# When might you use a virtual property?
 
-Each query parameter appears in the Url as a key value pair that looks something like "key=value". If a url has multiple query parameters, they are simply separated with a &.
+You may use a virtual property to store user information such as the username and picture that can be called upon almost like a user-model.
 
-# When do you think Query parameters would be helpful when writing your server?
+# How do you search by a virtual properties value?
 
-This could be really be useful for allowing quick changes directly in the url. You could also target this to change by simply adding a /${change} to a listener to change the page based upon input.
+To call a virtual property you must set a magic string. THis magic string can invoke the model. We did this a few times this week while building schema models to update the userID.
 
-Today's Journal: https://github.com/ScottFennie/BurgerJoint
+Today's Journal: No Project Today (Hackathon Prep)
