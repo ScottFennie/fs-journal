@@ -12,4 +12,4 @@ Props are used for sharing data between all our components. They can pass to chi
 
 Props can be used much like HTML elements to display real time information to the user. We can do this by simply naming a prop and defining its type. Then we can place the component  of the prop we are looking for inside brackets {{prop.feature}} to give us access to that props attributes.
 
-Project Link: https://scottfennie.github.io/Nasa/
+Project Link: https://scottfennie.github.io/Nasa/ try
