@@ -1,0 +1,3 @@
+# Write a review and reflection of your experiences in this course, as this is the last lecture before your final project, what are your concerns, how do you plan to manage your time, what have you enjoyed most about the course up to this point.
+
+I have really enjoyed coding at CodeWorks. It has certainly been a stressful experience, but I truly do feel confident as a Jr. developer coming out of the other side. I know that I tend to struggle initially with server tests on all of these larger projects, so I will be intensely focused on getting the server done the first weekend. I will then create a project backlog, timeboxing myself to complete each task on the backlog. Hopefully this will keep me from getting stuck on a small task.
